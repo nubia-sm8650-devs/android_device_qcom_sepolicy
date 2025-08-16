@@ -232,6 +232,10 @@ attribute vendor_hal_bluetooth_dun;
 attribute vendor_hal_bluetooth_dun_client;
 attribute vendor_hal_bluetooth_dun_server;
 
+attribute vendor_hal_bluetooth_fmd;
+attribute vendor_hal_bluetooth_fmd_client;
+attribute vendor_hal_bluetooth_fmd_server;
+
 attribute vendor_hal_qccvndhal;
 attribute vendor_hal_qccvndhal_client;
 attribute vendor_hal_qccvndhal_server;
